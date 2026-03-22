@@ -30,3 +30,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Fixed minor edge case in input handling
 - Resolved TODO items from previous session
+
+## 2026-03-23
+- Wrote notes on upcoming feature design
+- Drafted initial implementation plan for v2
+- Pinned dependency versions for reproducibility
