@@ -6,3 +6,8 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Added .editorconfig for consistent formatting
 - Resolved TODO items from previous session
+
+## 2026-03-22
+- Added .editorconfig for consistent formatting
+- Reviewed security headers configuration
+- Fixed off-by-one error in loop
