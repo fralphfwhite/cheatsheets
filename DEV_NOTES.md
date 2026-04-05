@@ -46,3 +46,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-06
 - Updated dependencies to latest stable versions
 - Reviewed codebase, identified areas for improvement
+
+## 2026-04-06
+- Consolidated duplicate helper functions
+- Ran linter, applied auto-fixes
+- Documented config options
